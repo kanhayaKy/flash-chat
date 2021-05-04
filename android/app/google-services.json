@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "284457464146",
+    "firebase_url": "https://flash-chat-3e418.firebaseio.com",
+    "project_id": "flash-chat-3e418",
+    "storage_bucket": "flash-chat-3e418.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284457464146:android:f528709c859276a127ca8b",
+        "android_client_info": {
+          "package_name": "co.kanhaya.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284457464146-3drtq5v8l16233icvetb4sv4lje9lksg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6OSpFg7-bXM3Oa3GLb5bqjmyVDq2wZfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284457464146-3drtq5v8l16233icvetb4sv4lje9lksg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
